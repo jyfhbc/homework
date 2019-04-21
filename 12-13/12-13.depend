@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555840350 source:c:\users\河边一瓶水\desktop\12-13\src\package.cpp
+	"Package.h"
+
+1555840350 c:\users\河边一瓶水\desktop\12-13\include\package.h
+	<string>
+

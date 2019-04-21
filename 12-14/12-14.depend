@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\河边一瓶水\desktop\12-14\main.cpp
+	<iostream>
+
+1555840822 source:c:\users\河边一瓶水\desktop\12-14\src\account.cpp
+	<iostream>
+	"Account.h"
+
+1555841095 c:\users\河边一瓶水\desktop\12-14\include\account.h
+
+1555841317 source:c:\users\河边一瓶水\desktop\12-14\src\savingaccount.cpp
+	"SavingAccount.h"
+
+1555841271 c:\users\河边一瓶水\desktop\12-14\include\savingaccount.h
+	"Account.h"
+
